@@ -1,3 +1,5 @@
+package annotations;
+
 import enumeration.Color;
 
 public class Main {
